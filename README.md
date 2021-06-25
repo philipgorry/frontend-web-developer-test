@@ -23,12 +23,12 @@ API for product detail:
 
 > https://dev.monjar.co/api/v2/product/[_id]
 
- 4. The category will available at HomePage, you don't need to create category page
- 5. The product category should have quick view function
- 6. Define proper use for hover and click
- 7. Responsive should cover desktop, tablet, and mobile size
- 8. Shimmer is required to cover loading process
- 9. Parallax is required
+ 3. The category will available at HomePage, you don't need to create category page
+ 4. The product category should have quick view function
+ 5. Define proper use for hover and click
+ 6. Responsive should cover desktop, tablet, and mobile size
+ 7. Shimmer is required to cover loading process
+ 8. Parallax is required
 
 ### Dependency required
 1. Use tailwindcss instead of bootstrap
